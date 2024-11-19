@@ -12,10 +12,16 @@
         <!--begin::Logo-->
         <div class="d-flex align-items-center flex-grow-1 flex-lg-grow-0 me-lg-13">
             <a href="index.html">
+<<<<<<< HEAD
                 <img alt="Logo" src="{{ asset('assets/media/logos/demo41.svg') }}" class="h-25px" />
             </a>
         </div>
 
+=======
+                <img alt="Logo" src="assets/media/logos/demo41.svg" class="h-25px" />
+            </a>
+        </div>
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
         <!--end::Logo-->
         <!--begin::Header wrapper-->
         <div class="d-flex align-items-stretch justify-content-between flex-lg-grow-1" id="kt_app_header_wrapper">
@@ -646,10 +652,15 @@
                                             <!--end:Col-->
                                             <!--begin:Col-->
                                             <div class="col-lg-4">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/stock/600x600/img-82.jpg') }} class="rounded mw-100" alt="" />
                                             </div>
 
 
+=======
+                                                <img src="assets/media/stock/600x600/img-82.jpg" class="rounded mw-100" alt="" />
+                                            </div>
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                             <!--end:Col-->
                                         </div>
                                         <!--end:Row-->
@@ -758,10 +769,16 @@
                                             <!--end:Col-->
                                             <!--begin:Col-->
                                             <div class="col-lg-7">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/stock/900x600/46.jpg') }}" class="rounded mw-100" alt="" />
                                             </div>
                                             <!--end:Col-->
 
+=======
+                                                <img src="assets/media/stock/900x600/46.jpg" class="rounded mw-100" alt="" />
+                                            </div>
+                                            <!--end:Col-->
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                         </div>
                                         <!--end:Row-->
                                     </div>
@@ -1471,11 +1488,18 @@
                                             <!--end:Col-->
                                             <!--begin:Col-->
                                             <div class="col-lg-5 pe-lg-5">
+<<<<<<< HEAD
                                                 <img src="{{ asset('/media/stock/600x600/img-84.jpg') }}" class="rounded mw-100" alt="" />
                                             </div>
                                             <!--end:Col-->
                                         </div>
 
+=======
+                                                <img src="assets/media/stock/600x600/img-84.jpg" class="rounded mw-100" alt="" />
+                                            </div>
+                                            <!--end:Col-->
+                                        </div>
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                         <!--end:Row-->
                                     </div>
                                     <!--end:Tab pane-->
@@ -1543,9 +1567,14 @@
                                             <!--end:Col-->
                                             <!--begin:Col-->
                                             <div class="col-lg-8">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/stock/900x600/44.jpg') }}" class="rounded mw-100" alt="" />
                                             </div>
                                             
+=======
+                                                <img src="assets/media/stock/900x600/44.jpg" class="rounded mw-100" alt="" />
+                                            </div>
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                             <!--end:Col-->
                                         </div>
                                         <!--end:Row-->
@@ -2937,7 +2966,11 @@
                                         <a href="#" class="d-flex text-gray-900 text-hover-primary align-items-center mb-5">
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/avatars/300-6.jpg') }}" alt="" />
+=======
+                                                <img src="assets/media/avatars/300-6.jpg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                             </div>
                                             <!--end::Symbol-->
                                             <!--begin::Title-->
@@ -2952,7 +2985,11 @@
                                         <a href="#" class="d-flex text-gray-900 text-hover-primary align-items-center mb-5">
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/avatars/300-2.jpg') }}" alt="" />
+=======
+                                                <img src="assets/media/avatars/300-2.jpg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                             </div>
                                             <!--end::Symbol-->
                                             <!--begin::Title-->
@@ -2967,7 +3004,11 @@
                                         <a href="#" class="d-flex text-gray-900 text-hover-primary align-items-center mb-5">
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/avatars/300-9.jpg') }}" alt="" />
+=======
+                                                <img src="assets/media/avatars/300-9.jpg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                             </div>
                                             <!--end::Symbol-->
                                             <!--begin::Title-->
@@ -2982,7 +3023,11 @@
                                         <a href="#" class="d-flex text-gray-900 text-hover-primary align-items-center mb-5">
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/avatars/300-14.jpg') }}" alt="" />
+=======
+                                                <img src="assets/media/avatars/300-14.jpg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                             </div>
                                             <!--end::Symbol-->
                                             <!--begin::Title-->
@@ -2997,7 +3042,11 @@
                                         <a href="#" class="d-flex text-gray-900 text-hover-primary align-items-center mb-5">
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
+<<<<<<< HEAD
                                                 <img src="{{ asset('assets/media/avatars/300-11.jpg') }}" alt="" />
+=======
+                                                <img src="assets/media/avatars/300-11.jpg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                             </div>
                                             <!--end::Symbol-->
                                             <!--begin::Title-->
@@ -3016,7 +3065,11 @@
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
                                                 <span class="symbol-label bg-light">
+<<<<<<< HEAD
                                                     <img class="w-20px h-20px" src="{{ asset('assets/media/svg/brand-logos/volicity-9.svg') }}" alt="" />
+=======
+                                                    <img class="w-20px h-20px" src="assets/media/svg/brand-logos/volicity-9.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                                 </span>
                                             </div>
                                             <!--end::Symbol-->
@@ -3033,7 +3086,11 @@
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
                                                 <span class="symbol-label bg-light">
+<<<<<<< HEAD
                                                     <img class="w-20px h-20px" src="{{ asset('assets/media/svg/brand-logos/tvit.svg') }}" alt="" />
+=======
+                                                    <img class="w-20px h-20px" src="assets/media/svg/brand-logos/tvit.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                                 </span>
                                             </div>
                                             <!--end::Symbol-->
@@ -3050,7 +3107,11 @@
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
                                                 <span class="symbol-label bg-light">
+<<<<<<< HEAD
                                                     <img class="w-20px h-20px" src="{{ asset('assets/media/svg/misc/infography.svg') }}" alt="" />
+=======
+                                                    <img class="w-20px h-20px" src="assets/media/svg/misc/infography.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                                 </span>
                                             </div>
                                             <!--end::Symbol-->
@@ -3067,7 +3128,11 @@
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
                                                 <span class="symbol-label bg-light">
+<<<<<<< HEAD
                                                     <img class="w-20px h-20px" src="{{ asset('assets/media/svg/brand-logos/leaf.svg') }}" alt="" />
+=======
+                                                    <img class="w-20px h-20px" src="assets/media/svg/brand-logos/leaf.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                                 </span>
                                             </div>
                                             <!--end::Symbol-->
@@ -3084,7 +3149,11 @@
                                             <!--begin::Symbol-->
                                             <div class="symbol symbol-40px me-4">
                                                 <span class="symbol-label bg-light">
+<<<<<<< HEAD
                                                     <img class="w-20px h-20px" src="{{ asset('assets/media/svg/brand-logos/tower.svg') }}" alt="" />
+=======
+                                                    <img class="w-20px h-20px" src="assets/media/svg/brand-logos/tower.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                                 </span>
                                             </div>
                                             <!--end::Symbol-->
@@ -3738,7 +3807,11 @@
                                     <!--end::Section-->
                                     <!--begin::Illustration-->
                                     <div class="text-center px-4">
+<<<<<<< HEAD
                                         <img class="mw-100 mh-200px" alt="image" src="{{ asset('assets/media/illustrations/sketchy-1/1.png') }}" />
+=======
+                                        <img class="mw-100 mh-200px" alt="image" src="assets/media/illustrations/sketchy-1/1.png" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                     </div>
                                     <!--end::Illustration-->
                                 </div>
@@ -4052,7 +4125,11 @@
                 <div class="app-navbar-item ms-5" id="kt_header_user_menu_toggle">
                     <!--begin::Menu wrapper-->
                     <div class="cursor-pointer symbol symbol-35px symbol-md-45px" data-kt-menu-trigger="{default: 'click', lg: 'hover'}" data-kt-menu-attach="parent" data-kt-menu-placement="bottom-end">
+<<<<<<< HEAD
                         <img class="symbol symbol-circle symbol-35px symbol-md-45px" src="{{ asset('assets/media/avatars/300-13.jpg') }}" alt="user" />
+=======
+                        <img class="symbol symbol-circle symbol-35px symbol-md-45px" src="assets/media/avatars/300-13.jpg" alt="user" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                     </div>
                     <!--begin::User account menu-->
                     <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg menu-state-color fw-semibold py-4 fs-6 w-275px" data-kt-menu="true">
@@ -4061,7 +4138,11 @@
                             <div class="menu-content d-flex align-items-center px-3">
                                 <!--begin::Avatar-->
                                 <div class="symbol symbol-50px me-5">
+<<<<<<< HEAD
                                     <img alt="Logo" src="{{ asset('assets/media/avatars/300-13.jpg') }}" />
+=======
+                                    <img alt="Logo" src="assets/media/avatars/300-13.jpg" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                 </div>
                                 <!--end::Avatar-->
                                 <!--begin::Username-->
@@ -4198,7 +4279,11 @@
                             <a href="#" class="menu-link px-5">
                                 <span class="menu-title position-relative">Language 
                                 <span class="fs-8 rounded bg-light px-3 py-2 position-absolute translate-middle-y top-50 end-0">English 
+<<<<<<< HEAD
                                 <img class="w-15px h-15px rounded-1 ms-2" src="{{ asset('assets/media/flags/united-states.svg') }}" alt="" /></span></span>
+=======
+                                <img class="w-15px h-15px rounded-1 ms-2" src="assets/media/flags/united-states.svg" alt="" /></span></span>
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                             </a>
                             <!--begin::Menu sub-->
                             <div class="menu-sub menu-sub-dropdown w-175px py-4">
@@ -4206,7 +4291,11 @@
                                 <div class="menu-item px-3">
                                     <a href="account/settings.html" class="menu-link d-flex px-5 active">
                                     <span class="symbol symbol-20px me-4">
+<<<<<<< HEAD
                                         <img class="rounded-1" src="{{ asset('assets/media/flags/united-states.svg') }}" alt="" />
+=======
+                                        <img class="rounded-1" src="assets/media/flags/united-states.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                     </span>English</a>
                                 </div>
                                 <!--end::Menu item-->
@@ -4214,7 +4303,11 @@
                                 <div class="menu-item px-3">
                                     <a href="account/settings.html" class="menu-link d-flex px-5">
                                     <span class="symbol symbol-20px me-4">
+<<<<<<< HEAD
                                         <img class="rounded-1" src="{{ asset('assets/media/flags/spain.svg') }}" alt="" />
+=======
+                                        <img class="rounded-1" src="assets/media/flags/spain.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                     </span>Spanish</a>
                                 </div>
                                 <!--end::Menu item-->
@@ -4222,7 +4315,11 @@
                                 <div class="menu-item px-3">
                                     <a href="account/settings.html" class="menu-link d-flex px-5">
                                     <span class="symbol symbol-20px me-4">
+<<<<<<< HEAD
                                         <img class="rounded-1" src="{{ asset('assets/media/flags/germany.svg') }}" alt="" />
+=======
+                                        <img class="rounded-1" src="assets/media/flags/germany.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                     </span>German</a>
                                 </div>
                                 <!--end::Menu item-->
@@ -4230,7 +4327,11 @@
                                 <div class="menu-item px-3">
                                     <a href="account/settings.html" class="menu-link d-flex px-5">
                                     <span class="symbol symbol-20px me-4">
+<<<<<<< HEAD
                                         <img class="rounded-1" src="{{ asset('assets/media/flags/japan.svg') }}" alt="" />
+=======
+                                        <img class="rounded-1" src="assets/media/flags/japan.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                     </span>Japanese</a>
                                 </div>
                                 <!--end::Menu item-->
@@ -4238,7 +4339,11 @@
                                 <div class="menu-item px-3">
                                     <a href="account/settings.html" class="menu-link d-flex px-5">
                                     <span class="symbol symbol-20px me-4">
+<<<<<<< HEAD
                                         <img class="rounded-1" src="{{ asset('assets/media/flags/france.svg') }}" alt="" />
+=======
+                                        <img class="rounded-1" src="assets/media/flags/france.svg" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                                     </span>French</a>
                                 </div>
                                 <!--end::Menu item-->

@@ -4,6 +4,7 @@
 <script src="{{ asset('assets/js/widgets.bundle.js') }}"></script>
 <script src="{{ asset('assets/js/custom/widgets.js') }}"></script>
 <script src="{{ asset('assets/js/custom/utilities/modals/users-search.js') }}"></script>
+<<<<<<< HEAD
 <script src="{{ asset('assets/plugins/custom/fullcalendar/fullcalendar.bundle.js') }}"></script>
 
 {{-- Clientes --}}
@@ -16,6 +17,20 @@
 
 {{-- // add row --}}
 <script src="{{ asset('assets/plugins/custom/formrepeater/formrepeater.bundle.js') }}"></script>
+=======
+<script src="./assets/plugins/custom/fullcalendar/fullcalendar.bundle.js"></script>
+
+{{-- Clientes --}}
+<script src="./assets/plugins/custom/datatables/datatables.bundle.js"></script>
+<script src="./assets/js/custom/apps/user-management/users/list/table.js"></script>
+{{-- <script src="./assets/js/custom/apps/user-management/users/list/add.js"></script> --}}
+
+<script src="./assets/js/custom/apps/user-management/users/list/add.js"></script>
+<script src="./assets/js/custom/apps/ecommerce/catalog/save-product.js"></script>
+
+{{-- // add row --}}
+<script src="./assets/plugins/custom/formrepeater/formrepeater.bundle.js"></script>
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
 
 
 <script>
@@ -165,7 +180,11 @@ new Tagify(input, {
                         title: 'Meeting',
                         start: '2024-09-13T11:00:00',
                         constraint: 'availableForMeeting', // defined below
+<<<<<<< HEAD
                         color: red
+=======
+                        color: green
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                     },
                     {
                         title: 'Conference',
@@ -195,7 +214,11 @@ new Tagify(input, {
                     {
                         start: '2024-09-24',
                         end: '2024-09-28',
+<<<<<<< HEAD
                         overlap: true,
+=======
+                        overlap: false,
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                         display: 'background',
                         color: red
                     },

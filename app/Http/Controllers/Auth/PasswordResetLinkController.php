@@ -39,6 +39,10 @@ class PasswordResetLinkController extends Controller
         return $status == Password::RESET_LINK_SENT
                     ? back()->with('status', __($status))
                     : back()->withInput($request->only('email'))
+<<<<<<< HEAD
                         ->withErrors(['email' => __($status)]);
+=======
+                            ->withErrors(['email' => __($status)]);
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
     }
 }

@@ -7,7 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Melvin POS sistema de ventas" content="Sistema de ventas">
     <meta name="keywords" content="ventas, compras, inventarios, reportes">
+<<<<<<< HEAD
     <meta name="author" content="ksiri.georg@gmail.com">
+=======
+    <meta name="author" content="luisfaxacademy.com">
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
     <link rel="icon" href="{{asset('assets/images/favicon.png') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}" type="image/x-icon">
     <title>Agenda Hoy</title>
@@ -58,10 +62,16 @@
 
     {{-- Custom scripts --}}
     @stack('my-scripts')
+<<<<<<< HEAD
 
         <script src="{{ asset('assets/js/custom/utilities/modals/upgrade-plan.js') }}"></script>
 		<script src="{{ asset('assets/js/custom/utilities/modals/create-campaign.js') }}"></script>
 		<script src="{{ asset('assets/js/custom/utilities/modals/users-search.js') }}"></script>
+=======
+		<script src="./assets/js/custom/utilities/modals/upgrade-plan.js"></script>
+		<script src="./assets/js/custom/utilities/modals/create-campaign.js"></script>
+		<script src="./assets/js/custom/utilities/modals/users-search.js"></script>
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
 </body>
 
 </html>

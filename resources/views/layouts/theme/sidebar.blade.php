@@ -7,7 +7,11 @@
             <!--begin::Navbar item-->
             <a href="pages/user-profile/overview.html" class="btn btn-icon btn-default mx-auto mb-4">
                 <div class="symbol symbol-40px symbol-circle">
+<<<<<<< HEAD
                     <img src="{{ asset('assets/media/avatars/300-2.jpg') }}" class="" alt="" />
+=======
+                    <img src="assets/media/avatars/300-2.jpg" class="" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                 </div>
             </a>
             <!--end::Navbar item-->
@@ -21,7 +25,11 @@
             <!--begin::Navbar item-->
             <a href="account/activity.html" class="btn btn-icon btn-default mx-auto mb-4">
                 <div class="symbol symbol-40px symbol-circle">
+<<<<<<< HEAD
                     <img src="{{ asset('assets/media/avatars/300-9.jpg') }}" class="" alt="" />
+=======
+                    <img src="assets/media/avatars/300-9.jpg" class="" alt="" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
                 </div>
             </a>
             <!--end::Navbar item-->

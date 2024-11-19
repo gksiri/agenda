@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />
+<<<<<<< HEAD
 <link href="{{ asset('assets/plugins/global/plugins.bundle.css') }}" rel="stylesheet" type="text/css" />
 
 
@@ -7,6 +8,11 @@
 <link href="{{ asset('assets/plugins/custom/fullcalendar/fullcalendar.bundle.css') }}" rel="stylesheet" type="text/css" />
 
 
+=======
+<link href="./assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+<link href="./assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
+<link href="./assets/plugins/custom/fullcalendar/fullcalendar.bundle.css" rel="stylesheet" type="text/css" />
+>>>>>>> 1a93987bd2038f22c8904f8d4d8814e95adf64ee
 
 <style>
 
